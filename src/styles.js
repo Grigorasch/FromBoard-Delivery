@@ -79,7 +79,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
-        font-family: 'Formular', Arial, Helvetica, sans-serif, sans-serif;
+        font-family: 'Formular', Arial, sans-serif;
         line-height: 1.4;
     }
 
